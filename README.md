@@ -8,5 +8,5 @@ Resizeable Panes is an element to display before and after photos.  User simply 
  * HTML5
  * CSS3
 
-![Project Image](https://github.com/imadarai/image-carousel/blob/master/images/readmegif.gif?raw=true)
+![Project Image](https://github.com/imadarai/resizable-panes/blob/master/Panes.gif?raw=true)
 
